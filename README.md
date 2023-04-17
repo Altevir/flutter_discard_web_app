@@ -5,12 +5,14 @@ A aplicação serve para consultar os dados do usuário no Discord pelo seu ID, 
 Packages utilizados
 - http
 - provider (para gerência de estado)
-- MVVM (Model-View-ViewModel)
 - cached_network_image
 - google_fonts
 - intl
 - lottie
 - url_launcher
+
+Padrão de design utilizado
+- MVVM (Model-View-ViewModel)
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/11803107/232351320-f4ee2b48-fbaf-4686-b093-291a2f3833be.png)

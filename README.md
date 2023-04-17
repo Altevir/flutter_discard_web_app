@@ -4,7 +4,7 @@ A aplicação serve para consultar os dados do usuário no Discord pelo seu ID, 
 
 Packages utilizados
 - http
-- provider (para gerência de estado)
+- provider (para injeção de dependência e gerência de estado)
 - cached_network_image
 - google_fonts
 - intl

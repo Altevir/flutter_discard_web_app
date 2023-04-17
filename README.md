@@ -17,7 +17,7 @@ Padrão de design utilizado
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/11803107/232351320-f4ee2b48-fbaf-4686-b093-291a2f3833be.png)
 
-Créditos do Design
+### Créditos do Design
 ## [João Inácio Neto](https://www.linkedin.com/in/birobirobiro/) (Linkedin)
 Link do post original
 https://www.linkedin.com/posts/birobirobiro_html-css-discord-activity-7051581999760715777-kZ9F/
